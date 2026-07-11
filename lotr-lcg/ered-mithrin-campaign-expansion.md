@@ -1,7 +1,7 @@
 # Ered Mithrin Campaign Expansion Card List
 If you want to proxy the entire Campaign Expansion you will need to paste each block of cards into the "List" option in proxynexus.net.  Otherwise use the appropriate sections.
 
-The Revised Content Campaign Expansion contains only scenario and campaign cards.  Hero Expansion cards are listed in ered-mithrin-hero-expansion.md
+The Revised Content Campaign Expansion contains only scenario and campaign cards.  Hero Expansion cards are listed in [Ered Mithrin Campaign Expansion](ered-mithrin-hero-expansion.md).
 
 ### Ered Mithrin Revised Content Campaign Expansion Exclusive Cards
 These cards are unique to the Ered Mithrin Campaign Expansion.

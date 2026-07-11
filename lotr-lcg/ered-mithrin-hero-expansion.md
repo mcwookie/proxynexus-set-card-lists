@@ -1,7 +1,7 @@
 # Ered Mithrin Hero Expansion Card List
 Paste the following block of cards into the "List" option in proxynexus.net.
 
-The Revised Content Hero Expansion contains only hero cards.  Campaign Expansion cards are listed in ered-mithrin-campaign-expansion.md
+The Revised Content Hero Expansion contains only hero cards.  Campaign Expansion cards are listed in [Ered Mithring Campaign Expansion](ered-mithrin-campaign-expansion.md).
 
 ```
 1x Bilbo Baggins [mount_gundabad]
