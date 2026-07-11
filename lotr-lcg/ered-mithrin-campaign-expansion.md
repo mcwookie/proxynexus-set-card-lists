@@ -5,6 +5,7 @@ The Revised Content Campaign Expansion contains only scenario and campaign cards
 
 # Ered Mithrin Revised Content Campaign Expansion Exclusive Cards
 ## These cards are unique to the Ered Mithrin Campaign Expansion
+```
 1x Turayn [ered_mithrin_campaign_expansion]
 1x Melanwar [ered_mithrin_campaign_expansion]
 1x Isolde [ered_mithrin_campaign_expansion]
@@ -45,24 +46,33 @@ The Revised Content Campaign Expansion contains only scenario and campaign cards
 1x The Ghost of Framsburg [ered_mithrin_campaign_expansion]
 1x Mount Gundabad [ered_mithrin_campaign_expansion]
 1x The Fate of Wilderland [ered_mithrin_campaign_expansion]
+```
 
 # The Wilds of Rhovanion
-## The following are the scenario cards
-
+The following are the scenario cards for the The Wilds of Rhovanion adventure pack.
+```
+```
 # The Withered Heath
-## The following are the scenario cards
-
+The following are the scenario cards for the The Withered Heath adventure pack.
+```
+```
 # Roam Across Rhovanion
-## The following are the scenario cards
-
+The following are the scenario cards for the Roam Across Rhovanion adventure pack.
+```
+```
 # Fire in the Night
-## The following are the scenario cards
-
+The following are the scenario cards for the Fire in the Night adventure pack.
+```
+```
 # The Ghost of Framsburg
-## The following are the scenario cards
-
+The following are the scenario cards for the The Ghost of Framsburg adventure pack.
+```
+```
 # Mount Gundabad
-## The following are the scenario cards
-
+The following are the scenario cards for the Mount Gundabad adventure pack.
+```
+```
 # The Fate of Wilderland
-## The following are the scenario cards
+The following are the scenario cards for the The Fate of Wilderland adventure pack.
+```
+```

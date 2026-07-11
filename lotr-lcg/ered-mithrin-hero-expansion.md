@@ -3,6 +3,7 @@ Paste the following block of cards into the "List" option in proxynexus.net.
 
 The Revised Content Hero Expansion contains only hero cards.  Campaign Expansion cards are listed in ered-mithrin-campaign-expansion.md
 
+```
 1x Bilbo Baggins [mount_gundabad]
 1x Grimbeorn the Old [the_withered_heath]
 1x Dáin Ironfoot [the_ghost_of_framsburg]
@@ -78,3 +79,4 @@ The Revised Content Hero Expansion contains only hero cards.  Campaign Expansion
 3x To Arms! [the_wilds_of_rhovanion]
 3x Valour of the North [the_wilds_of_rhovanion]
 3x Bartering [the_wilds_of_rhovanion]
+```
